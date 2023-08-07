@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.558b35e1.css",
+    "main.js": "/static/js/main.85e6f790.js",
+    "static/media/beam-analytics.gif": "/static/media/beam-analytics.ed85f978d4c4eadd0722.gif",
+    "static/media/pricetag.png": "/static/media/pricetag.c766c2d416492b2b5e13.png",
+    "index.html": "/index.html",
+    "main.558b35e1.css.map": "/static/css/main.558b35e1.css.map",
+    "main.85e6f790.js.map": "/static/js/main.85e6f790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558b35e1.css",
+    "static/js/main.85e6f790.js"
+  ]
+}
